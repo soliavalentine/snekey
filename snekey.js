@@ -30,6 +30,7 @@ function Snake() {
             if (d < 1) {
                 this.total = 0;
                 this.tail = [];
+                frameRate(10);
             }
         }
     }
