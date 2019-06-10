@@ -1,0 +1,27 @@
+#title{
+    font-size: 60px;
+    text-align: center;
+    font-family: "Lucida Console";
+    color: magenta;
+    text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;
+}
+body{
+    text-align: center;
+    background-image: url("images/download (1).jpeg");
+}
+.sub{
+    font-size: 35px;
+    color: yellow;
+    text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;
+}
+#high{
+    color: aqua;
+}
